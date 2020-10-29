@@ -1,0 +1,101 @@
+
+.nav-bg{
+    background-color: rgb(49, 51, 54);
+    font-weight: bolder;
+}
+.nav-link{
+    margin-left: 20px;
+}
+
+.bg-welcome{
+    background-color: rgb(252, 252, 252)
+}
+.margin-welcome{
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.post{
+    margin-bottom: 20px;
+}
+
+.login-margin{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.marg{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.form-margin{
+    margin-top: 20px;
+}
+
+.form-spacing-top{
+    margin-top: 10px;
+}
+
+.blog-spacing{
+    margin-top: 2php artisan serve0px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.blog-spacing h5{
+    color: rgb(104, 103, 103);
+    font-style: italic;
+}
+
+.post-index{
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+
+.card-bg{
+    background-color: rgb(224, 237, 250);
+}
+
+.label{
+    box-sizing: border-box;
+    padding: 5px;
+    text-transform: capitalize;
+    border: 2px solid grey;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    background-color: grey;
+}
+.comment{
+    margin-bottom:30px;
+}
+
+.author-image{
+    border-radius:50%;
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-color: grey;
+}
+
+.author-name{
+    float: left;
+    margin-left: 10px;
+}
+
+.author-name h4{
+    font-size: 24px;
+}
+.author-time{
+    color:grey;
+    font-weight: lighter;
+}
+
+.comment-content{
+    clear:both;
+    margin-left: 60px;
+    font-size: 16px;
+    line-height: 1.3rem;;
+}
