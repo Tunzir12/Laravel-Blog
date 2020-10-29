@@ -1,5 +1,5 @@
 @extends('main')
-require __DIR__.'/../vendor/autoload.php';
+
 
 @section('title','| homepage')
 

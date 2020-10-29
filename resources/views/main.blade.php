@@ -1,4 +1,5 @@
 @include('partials._head')
+    require __DIR__.'/../vendor/autoload.php';
 <body>
     @include('partials._nav')
 
