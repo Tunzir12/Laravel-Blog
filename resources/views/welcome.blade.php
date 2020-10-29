@@ -1,6 +1,5 @@
 @extends('main')
 
-
 @section('title','| homepage')
 
 @section('content')
